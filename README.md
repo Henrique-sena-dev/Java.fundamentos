@@ -1,2 +1,9 @@
-# Java.fundamentos
-Repositório dedicado ao aprendizado de Java, com exemplos práticos sobre tipos primitivos, entrada de dados utilizando Scanner e exercícios de fixação.
+  Conteúdos estudados
+
+- Tipos primitivos
+- Operadores aritméticos
+- Entrada de dados com Scanner
+- Saída formatada
+
+ Objetivo
+Praticar fundamentos da linguagem Java.
