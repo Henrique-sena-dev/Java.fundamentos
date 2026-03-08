@@ -2,7 +2,7 @@
 
 - Tipos primitivos
 - Operadores aritméticos
-- Entrada de dados com Scanner
+- Entrada e Saida de dados com Scanner
 - Saída formatada
 
  Objetivo
