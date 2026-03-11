@@ -11,11 +11,14 @@ public class If_Else_Encadeamento {
         ler.close();
      if(horario < 12 ){ 
         System.out.println("Bom dia");
-     }else if (( horario >= 12) && (horario <= 18))
-           System.out.println("Boa tarde");
-     else { 
+     }
+     else if (( horario >= 12) && (horario <= 18)){
+         System.out.println("Boa tarde");
+     }
+     else{ 
          System.out.println("Boa noite");
-        }
+     }
+    
     }
   
 }
