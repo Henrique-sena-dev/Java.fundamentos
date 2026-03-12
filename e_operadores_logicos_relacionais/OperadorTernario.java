@@ -1,4 +1,4 @@
-package operadores_logicos_relacionais;
+package e_operadores_logicos_relacionais;
 
 import java.util.Locale;
 import java.util.Scanner;

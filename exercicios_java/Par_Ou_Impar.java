@@ -10,6 +10,7 @@ public class Par_Ou_Impar {
         System.out.print("Digite um número para saber se é par ou ímpar:");
         numero = ler.nextInt();
         resultado =(numero % 2 == 0)?"par":"impar";
-        System.out.println("o número digitado é:" + resultado);
+        System.out.printf("o número " + numero +" é " + resultado);
     }
 }
+

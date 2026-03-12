@@ -1,4 +1,4 @@
-package operadores_logicos_relacionais;
+package e_operadores_logicos_relacionais;
 
 public class OperadoresLogicos {
     public static void main(String[] args) {

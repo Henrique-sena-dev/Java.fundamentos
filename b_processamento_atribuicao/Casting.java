@@ -1,4 +1,4 @@
-package Processamento_Atribuição;
+package b_processamento_atribuicao;
 public class Casting {
     public static void main(String[] args) {
      

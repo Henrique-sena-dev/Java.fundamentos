@@ -1,4 +1,4 @@
-package Entrada_Dados;
+package a_entrada_dados;
 import java.util.Scanner;
 
 public class Main {

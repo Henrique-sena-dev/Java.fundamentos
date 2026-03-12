@@ -1,4 +1,4 @@
-package Saida_Dados;
+package c_saida_dados;
 
 public class Saida_Formatada {
     public static void main(String[] args) {

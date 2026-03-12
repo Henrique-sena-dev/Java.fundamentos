@@ -1,4 +1,4 @@
-package Processamento_Atribuição;
+package b_processamento_atribuicao;
 public class Class_Math {
     public static void main(String[] args) {
      
