@@ -7,18 +7,24 @@ public class Maior_Numero {
      Scanner ler = new Scanner(System.in);
      int n1;
      int n2;
+    
      System.out.print("Digite um valor:");
      n1 = ler.nextInt();
+    
      System.out.print("Digite outro valor:");
      n2 = ler.nextInt();
-     if(( n1 > n2) && (n1 != n2)){
-        System.out.println(n1 + " É o maior numero e são diferentes!");
+     
+     if( n1 > n2){
+        System.out.println(n1 + " É o maior numero!");
      }
      else if( n2 > n1){
-        System.out.println(n2 + " É o maior numero e são diferentes!");
+        System.out.println(n2 + " É o maior numero!");
      }
      else if(n1 == n2){
         System.out.println("numeros iguais!");
+     }
+     else{
+
      }
      ler.close();
    
