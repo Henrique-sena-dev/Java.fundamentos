@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class Maior_Numero {
     public static void main(String[] args) {
+     
      Scanner ler = new Scanner(System.in);
+        
      int n1;
      int n2;
     
