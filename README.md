@@ -6,6 +6,7 @@
 - Saída formatada
 - Operadores relacionais e logicos
 - condicionais If e Else
+- estruturas de repetição whilhe e For
 
  Objetivo
 Praticar fundamentos da linguagem Java.
