@@ -6,7 +6,10 @@
 - Saída formatada
 - Operadores relacionais e logicos
 - condicionais If e Else
-- estruturas de repetição whilhe e For
+- Switch
+- estruturas de repetição whilhe, For , do while, while(true)
+- Funções 
+- POO
 
  Objetivo
 Praticar fundamentos da linguagem Java.
